@@ -26,6 +26,10 @@ figcaption
 	font-style: italic;
 	text-align: center;
 }
+article 
+{
+	text-align: center;
+}
 footer 
 {
 	text-align: center;
