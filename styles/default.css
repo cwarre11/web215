@@ -5,16 +5,18 @@ body
   background-color: #F0F8FF; 
   color: #808080;
 }
-h1, h2, h3 
-{
+h1
+{		
+	background-color: #E6E6FA;
 	color: #808080;
 	padding-top: 20px;
-    padding-bottom: 20px;
+    	padding-bottom: 20px;
 	text-align: center;
 }
-h1 
+h2, h3
 {
-		background-color: #E6E6FA;
+	color: #808080;
+	text-align: center;
 }
 figure 
 {
