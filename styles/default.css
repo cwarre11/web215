@@ -1,13 +1,11 @@
 .header-img {
 	text-align: center;
-	padding-top: -50px;
-	padding-bottom: -30px;
 }
 
 html,body
 {
-margin:0;
-padding:0;
+	margin:0;
+	padding:0;
 }
 
 body 
