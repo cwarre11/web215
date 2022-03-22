@@ -4,6 +4,12 @@
 	padding-bottom: -30px;
 }
 
+html,body
+{
+margin:0;
+padding:0;
+}
+
 body 
 {
   margin: 30px;
