@@ -20,18 +20,14 @@ body
   background-color: #F0F8FF; 
   color: #808080;
 }
-h1
+h1, h2, h3, h4
 {		
 	background-color: #E6E6FA;
 	color: #808080;
 	padding-top: 20px;
 	text-align: center;
 }
-h2, h3
-{
-	color: #808080;
-	text-align: center;
-}
+
 figure 
 {
 	text-align: center;
