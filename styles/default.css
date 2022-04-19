@@ -116,6 +116,19 @@ header nav
     float: center;
 }
 
+.topnav 
+{
+	header nav
+{
+	background-color: #E6E6FA;
+	color: #808080;
+	text-align: left;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+    float: center;
+}
+}
 nav a:hover 
 {
 	color: black;
