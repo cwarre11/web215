@@ -105,6 +105,11 @@ a:hover
 	width: 25%;
 	height: auto;
 }
+
+input 
+{
+	text-align: center;	
+}
 header nav
 {
 	background-color: #E6E6FA;
@@ -115,6 +120,7 @@ header nav
 	font-size: 17px;
     float: center;
 }
+
 
 .topnav 
 {
