@@ -55,7 +55,9 @@ figcaption
 article 
 {
 	text-align: left;
-	margin-left: 50px;
+	margin-left: 250px;
+	margin-right: 250px;
+	background-color: #F0F8FF;
 }
 footer 
 {
